@@ -1,0 +1,26 @@
+{
+  "name": "buffer-up",
+  "version": "0.0.0",
+  "description": "Buffer up streaming data to a single callback called when the piping stream calls end",
+  "main": "buffer-up.js",
+  "scripts": {
+    "test": "node test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonewman/buffer-up.git"
+  },
+  "keywords": [
+    "Buffer",
+    "stream"
+  ],
+  "author": "Sam Newman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonewman/buffer-up/issues"
+  },
+  "homepage": "https://github.com/sonewman/buffer-up",
+  "devDependencies": {
+    "macchiato": "^1.0.0"
+  }
+}
