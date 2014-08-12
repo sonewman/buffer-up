@@ -1,6 +1,6 @@
 {
   "name": "buffer-up",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Buffer up streaming data to a single callback called when the piping stream calls end",
   "main": "buffer-up.js",
   "scripts": {
